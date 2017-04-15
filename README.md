@@ -1,15 +1,11 @@
-## Simon-Game
-#### Check it out [here](https://c0d0er.github.io/Simon-Game/)
+## Twitch-Tv-App
+#### Check it out [here](https://c0d0er.github.io/Twitch-TV-App/)
 
 #### Fulfill the below user stories:
-- User Story: I am presented with a random series of button presses.
-- User Story: Each time I input a series of button presses correctly, I see the same series of button presses but with an additional step.
-- User Story: I hear a sound that corresponds to each button both when the series of button presses plays, and when I personally press a button.
-- User Story: If I press the wrong button, I am notified that I have done so, and that series of button presses starts again to remind me of the pattern so I can try again.
-- User Story: I can see how many steps are in the current series of button presses.
-- User Story: If I want to restart, I can hit a button to do so, and the game will return to a single step.
-- User Story: I can play in strict mode where if I get a button press wrong, it notifies me that I have done so, and the game restarts at a new random series of button presses.
-- User Story: I can win the game by getting a series of 20 steps correct. I am notified of my victory, then the game starts over.
+- User Story: I can see whether Free Code Camp is currently streaming on Twitch.tv.
+- User Story: I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.
+- User Story: if a Twitch user is currently streaming, I can see additional details about what they are streaming.
+- User Story: I will see a placeholder notification if a streamer has closed their Twitch account (or the account never existed). You can verify this works by adding brunofin and comster404 to your array of Twitch streamers.
 
 #### Technologies used to complete this project
 - HTML
